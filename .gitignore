@@ -1,0 +1,9 @@
+# Nunca subir datos privados ni credenciales
+*.local.json
+.env
+.env.*
+*.vcf
+uploads/
+backups/
+secrets/
+.DS_Store
