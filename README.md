@@ -16,7 +16,7 @@ Es la misma ficha que recibe el cliente final: **pública y de solo lectura**. N
 Los datos viven en el objeto `CONFIG` al inicio del script y solo los modifica el administrador de Vincular Business. En producción esos datos salen de una base de datos central con panel exclusivo del administrador y login validado en servidor.
 
 ## Límites de la demo
-- El QR apunta a una URL de EJEMPLO (`fichas.ejemplo.com`): no imprimir ni grabar chips con ella.
+- El QR apunta a `https://raveholding.github.io/VBPETIDdemo/` (GitHub Pages, solo para demostración). Requiere activar Pages en *Settings → Pages → Branch: main / root*. No usar Pages para fichas de clientes reales.
 - Es un archivo estático: cada cambio de datos requiere republicar.
 
 ## Uso
