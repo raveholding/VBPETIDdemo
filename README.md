@@ -4,7 +4,7 @@ Demo de la **Ficha Inteligente de Mascota NFC + QR** de Vincular Business, para 
 
 Es la misma ficha que recibe el cliente final: **pública y de solo lectura**. No tiene panel, login, PIN ni ningún campo editable.
 
-- La foto es la de Margoth. **El titular y los datos de salud son ficticios** (marcados EJEMPLO).
+- De la mascota solo son reales la **foto y el nombre (Margoth)**. **Todo lo demás es ficticio** (raza, color, fecha de nacimiento, titular y datos de salud, marcados como EJEMPLO).
 - Los datos de contacto de Vincular Business (WhatsApp y correo) son reales.
 
 ## Qué se puede probar
